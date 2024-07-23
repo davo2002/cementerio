@@ -1,0 +1,26 @@
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Notificaciones</h2>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Notificación</th>
+            <th>Fecha</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Nueva bóveda registrada</td>
+            <td>2024-07-20</td>
+            <td><button class="btn btn-sm btn-primary">Ver</button></td>
+          </tr>
+          <!-- Más filas de notificaciones aquí -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
